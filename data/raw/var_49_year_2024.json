@@ -1,0 +1,51 @@
+{
+  "status": "OK",
+  "data-availability": "available",
+  "last_update": "2026-04-30 01:18:33",
+  "subject": [
+    {
+      "val": 523,
+      "label": "Konsumsi dan Pendapatan"
+    }
+  ],
+  "var": [
+    {
+      "val": 49,
+      "label": "Persentase Kemiskinan",
+      "unit": "Persen",
+      "subj": "Kemiskinan dan Ketimpangan",
+      "def": "",
+      "decimal": 2,
+      "note": ""
+    }
+  ],
+  "turvar": [
+    {
+      "val": "0",
+      "label": "Tidak ada"
+    }
+  ],
+  "labelvervar": "Provinsi",
+  "vervar": [
+    {
+      "val": 1,
+      "label": "Jawa Timur"
+    }
+  ],
+  "tahun": [
+    {
+      "val": 124,
+      "label": "2024"
+    }
+  ],
+  "turtahun": [
+    {
+      "val": 0,
+      "label": "Tahun"
+    }
+  ],
+  "datacontent": {
+    "14901240": 9.79
+  },
+  "related": []
+}

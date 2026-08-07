@@ -1,0 +1,201 @@
+{
+  "status": "OK",
+  "data-availability": "available",
+  "last_update": null,
+  "subject": [
+    {
+      "val": 540,
+      "label": "Statistik Regional dan Statistik Area Kecil"
+    }
+  ],
+  "var": [
+    {
+      "val": 287,
+      "label": "Jumlah Kecamatan Menurut Kabupaten/Kota",
+      "unit": "Tidak Ada Satuan",
+      "subj": "Pemerintahan",
+      "def": "",
+      "decimal": 0,
+      "note": "Sumber : Peraturan Kepala Badan Pusat Statistik Nomor 5 Tahun 2021 Tanggal 30 Desember 2021 tentang Perubahan Atas Peraturan Kepala Badan Pusat Statistik Nomor 1 Tahun 2021 tentang Kode dan Nama Wilayah Kerja Statistik Tahun 2021"
+    }
+  ],
+  "turvar": [
+    {
+      "val": "0",
+      "label": "Tidak ada"
+    }
+  ],
+  "labelvervar": "Kab/Kota ",
+  "vervar": [
+    {
+      "val": 1,
+      "label": "Pacitan"
+    },
+    {
+      "val": 2,
+      "label": "Ponorogo"
+    },
+    {
+      "val": 3,
+      "label": "Trenggalek"
+    },
+    {
+      "val": 4,
+      "label": "Tulungagung"
+    },
+    {
+      "val": 5,
+      "label": "Blitar"
+    },
+    {
+      "val": 6,
+      "label": "Kediri"
+    },
+    {
+      "val": 7,
+      "label": "Malang"
+    },
+    {
+      "val": 8,
+      "label": "Lumajang"
+    },
+    {
+      "val": 9,
+      "label": "Jember"
+    },
+    {
+      "val": 10,
+      "label": "Banyuwangi"
+    },
+    {
+      "val": 11,
+      "label": "Bondowoso"
+    },
+    {
+      "val": 12,
+      "label": "Situbondo"
+    },
+    {
+      "val": 13,
+      "label": "Probolinggo"
+    },
+    {
+      "val": 14,
+      "label": "Pasuruan"
+    },
+    {
+      "val": 15,
+      "label": "Sidoarjo"
+    },
+    {
+      "val": 16,
+      "label": "Mojokerto"
+    },
+    {
+      "val": 17,
+      "label": "Jombang"
+    },
+    {
+      "val": 18,
+      "label": "Nganjuk"
+    },
+    {
+      "val": 19,
+      "label": "Madiun"
+    },
+    {
+      "val": 20,
+      "label": "Magetan"
+    },
+    {
+      "val": 21,
+      "label": "Ngawi"
+    },
+    {
+      "val": 22,
+      "label": "Bojonegoro"
+    },
+    {
+      "val": 23,
+      "label": "Tuban"
+    },
+    {
+      "val": 24,
+      "label": "Lamongan"
+    },
+    {
+      "val": 25,
+      "label": "Gresik"
+    },
+    {
+      "val": 26,
+      "label": "Bangkalan"
+    },
+    {
+      "val": 27,
+      "label": "Sampang"
+    },
+    {
+      "val": 28,
+      "label": "Pamekasan"
+    },
+    {
+      "val": 29,
+      "label": "Sumenep"
+    },
+    {
+      "val": 30,
+      "label": "Kota Kediri"
+    },
+    {
+      "val": 31,
+      "label": "Kota Blitar"
+    },
+    {
+      "val": 32,
+      "label": "Kota Malang"
+    },
+    {
+      "val": 33,
+      "label": "Kota Probolinggo"
+    },
+    {
+      "val": 34,
+      "label": "Kota Pasuruan"
+    },
+    {
+      "val": 35,
+      "label": "Kota Mojokerto"
+    },
+    {
+      "val": 36,
+      "label": "Kota Madiun"
+    },
+    {
+      "val": 37,
+      "label": "Kota Surabaya"
+    },
+    {
+      "val": 38,
+      "label": "Kota Batu"
+    },
+    {
+      "val": 3500,
+      "label": "Jawa Timur"
+    }
+  ],
+  "tahun": [
+    {
+      "val": 123,
+      "label": "2023"
+    }
+  ],
+  "turtahun": [
+    {
+      "val": 0,
+      "label": "Tahun"
+    }
+  ],
+  "datacontent": [],
+  "related": []
+}

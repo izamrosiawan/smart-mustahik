@@ -1,0 +1,241 @@
+{
+  "status": "OK",
+  "data-availability": "available",
+  "last_update": "2026-03-03 01:33:14",
+  "subject": [
+    {
+      "val": 531,
+      "label": "Neraca Ekonomi"
+    }
+  ],
+  "var": [
+    {
+      "val": 327,
+      "label": "[Seri 2010] PDRB Perkapita Atas Dasar Harga Berlaku Menurut Kabupaten/Kota",
+      "unit": "Ribu Rupiah",
+      "subj": "Produk Domestik Regional Bruto (Kabupaten/Kota)",
+      "def": "",
+      "decimal": 1,
+      "note": "- 2021 Angka Sangat Sangat Sementara\n- 2020 Angka Sangat Sementara\n- 2019 Angka Sementara"
+    }
+  ],
+  "turvar": [
+    {
+      "val": "0",
+      "label": "Tidak ada"
+    }
+  ],
+  "labelvervar": "Kabupaten/Kota Se Jawa Timur",
+  "vervar": [
+    {
+      "val": 3501,
+      "label": "Kabupaten Pacitan"
+    },
+    {
+      "val": 3502,
+      "label": "Kabupaten Ponorogo"
+    },
+    {
+      "val": 3503,
+      "label": "Kabupaten Trenggalek"
+    },
+    {
+      "val": 3504,
+      "label": "Kabupaten Tulungagung"
+    },
+    {
+      "val": 3505,
+      "label": "Kabupaten Blitar"
+    },
+    {
+      "val": 3506,
+      "label": "Kabupaten Kediri"
+    },
+    {
+      "val": 3507,
+      "label": "Kabupaten Malang"
+    },
+    {
+      "val": 3508,
+      "label": "Kabupaten Lumajang"
+    },
+    {
+      "val": 3509,
+      "label": "Kabupaten Jember"
+    },
+    {
+      "val": 3510,
+      "label": "Kabupaten Banyuwangi"
+    },
+    {
+      "val": 3511,
+      "label": "Kabupaten Bondowoso"
+    },
+    {
+      "val": 3512,
+      "label": "Kabupaten Situbondo"
+    },
+    {
+      "val": 3513,
+      "label": "Kabupaten Probolinggo"
+    },
+    {
+      "val": 3514,
+      "label": "Kabupaten Pasuruan"
+    },
+    {
+      "val": 3515,
+      "label": "Kabupaten Sidoarjo"
+    },
+    {
+      "val": 3516,
+      "label": "Kabupaten Mojokerto"
+    },
+    {
+      "val": 3517,
+      "label": "Kabupaten Jombang"
+    },
+    {
+      "val": 3518,
+      "label": "Kabupaten Nganjuk"
+    },
+    {
+      "val": 3519,
+      "label": "Kabupaten Madiun"
+    },
+    {
+      "val": 3520,
+      "label": "Kabupaten Magetan"
+    },
+    {
+      "val": 3521,
+      "label": "Kabupaten Ngawi"
+    },
+    {
+      "val": 3522,
+      "label": "Kabupaten Bojonegoro"
+    },
+    {
+      "val": 3523,
+      "label": "Kabupaten Tuban"
+    },
+    {
+      "val": 3524,
+      "label": "Kabupaten Lamongan"
+    },
+    {
+      "val": 3525,
+      "label": "Kabupaten Gresik"
+    },
+    {
+      "val": 3526,
+      "label": "Kabupaten Bangkalan"
+    },
+    {
+      "val": 3527,
+      "label": "Kabupaten Sampang"
+    },
+    {
+      "val": 3528,
+      "label": "Kabupaten Pamekasan"
+    },
+    {
+      "val": 3529,
+      "label": "Kabupaten Sumenep"
+    },
+    {
+      "val": 3571,
+      "label": "Kota Kediri"
+    },
+    {
+      "val": 3572,
+      "label": "Kota Blitar"
+    },
+    {
+      "val": 3573,
+      "label": "Kota Malang"
+    },
+    {
+      "val": 3574,
+      "label": "Kota Probolinggo"
+    },
+    {
+      "val": 3575,
+      "label": "Kota Pasuruan"
+    },
+    {
+      "val": 3576,
+      "label": "Kota Mojokerto"
+    },
+    {
+      "val": 3577,
+      "label": "Kota Madiun"
+    },
+    {
+      "val": 3578,
+      "label": "Kota Surabaya"
+    },
+    {
+      "val": 3579,
+      "label": "Kota Batu"
+    },
+    {
+      "val": 35000,
+      "label": "Jawa Timur"
+    }
+  ],
+  "tahun": [
+    {
+      "val": 121,
+      "label": "2021"
+    }
+  ],
+  "turtahun": [
+    {
+      "val": 0,
+      "label": "Tahun"
+    }
+  ],
+  "datacontent": {
+    "3500032701210": 59988.4,
+    "350132701210": 27932.3,
+    "350232701210": 22432.1,
+    "350332701210": 26160,
+    "350432701210": 36688.3,
+    "350532701210": 30683.3,
+    "350632701210": 25867,
+    "350732701210": 40056.7,
+    "350832701210": 29938.8,
+    "350932701210": 31781,
+    "351032701210": 49896.2,
+    "351132701210": 27009.3,
+    "351232701210": 30765.4,
+    "351332701210": 30708.3,
+    "351432701210": 97170.8,
+    "351532701210": 100251.9,
+    "351632701210": 77339.7,
+    "351732701210": 31448.7,
+    "351832701210": 25279.6,
+    "351932701210": 26801.6,
+    "352032701210": 29080.7,
+    "352132701210": 23838.3,
+    "352232701210": 64424.3,
+    "352332701210": 54739.5,
+    "352432701210": 30373.1,
+    "352532701210": 109418.3,
+    "352632701210": 23147.7,
+    "352732701210": 21064.1,
+    "352832701210": 20596.4,
+    "352932701210": 31177.3,
+    "357132701210": 489294,
+    "357232701210": 47329.3,
+    "357332701210": 90159.9,
+    "357432701210": 48406.1,
+    "357532701210": 40372,
+    "357632701210": 51961.6,
+    "357732701210": 73502,
+    "357832701210": 204410.6,
+    "357932701210": 78330.9
+  },
+  "related": []
+}

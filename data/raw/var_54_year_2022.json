@@ -1,0 +1,241 @@
+{
+  "status": "OK",
+  "data-availability": "available",
+  "last_update": "2025-11-13 01:36:00",
+  "subject": [
+    {
+      "val": 520,
+      "label": "Tenaga Kerja"
+    }
+  ],
+  "var": [
+    {
+      "val": 54,
+      "label": "Tingkat Pengangguran Terbuka (TPT) Menurut Kabupaten/Kota",
+      "unit": "Persen",
+      "subj": "Tenaga Kerja",
+      "def": "Persentase jumlah pengangguran terhadap jumlah angkatan kerja.\nMengindikasikan besarnya persentase angkatan kerja yang termasuk dalam pengangguran. TPT yang tinggi menunjukkan bahwa terdapat banyak angkatan kerja yang tidak terserap pada pasar kerja. ",
+      "decimal": 2,
+      "note": "- Indikator dihasilkan dari Survei Angkatan Kerja Nasional (SAKERNAS) Agustus\n- Tahun 2016 Tidak cukup sampel untuk melakukan estimasi sampai level Kabupaten/Kota"
+    }
+  ],
+  "turvar": [
+    {
+      "val": "0",
+      "label": "Tidak ada"
+    }
+  ],
+  "labelvervar": "Kabupaten/Kota Se Jawa Timur",
+  "vervar": [
+    {
+      "val": 3501,
+      "label": "Kabupaten Pacitan"
+    },
+    {
+      "val": 3502,
+      "label": "Kabupaten Ponorogo"
+    },
+    {
+      "val": 3503,
+      "label": "Kabupaten Trenggalek"
+    },
+    {
+      "val": 3504,
+      "label": "Kabupaten Tulungagung"
+    },
+    {
+      "val": 3505,
+      "label": "Kabupaten Blitar"
+    },
+    {
+      "val": 3506,
+      "label": "Kabupaten Kediri"
+    },
+    {
+      "val": 3507,
+      "label": "Kabupaten Malang"
+    },
+    {
+      "val": 3508,
+      "label": "Kabupaten Lumajang"
+    },
+    {
+      "val": 3509,
+      "label": "Kabupaten Jember"
+    },
+    {
+      "val": 3510,
+      "label": "Kabupaten Banyuwangi"
+    },
+    {
+      "val": 3511,
+      "label": "Kabupaten Bondowoso"
+    },
+    {
+      "val": 3512,
+      "label": "Kabupaten Situbondo"
+    },
+    {
+      "val": 3513,
+      "label": "Kabupaten Probolinggo"
+    },
+    {
+      "val": 3514,
+      "label": "Kabupaten Pasuruan"
+    },
+    {
+      "val": 3515,
+      "label": "Kabupaten Sidoarjo"
+    },
+    {
+      "val": 3516,
+      "label": "Kabupaten Mojokerto"
+    },
+    {
+      "val": 3517,
+      "label": "Kabupaten Jombang"
+    },
+    {
+      "val": 3518,
+      "label": "Kabupaten Nganjuk"
+    },
+    {
+      "val": 3519,
+      "label": "Kabupaten Madiun"
+    },
+    {
+      "val": 3520,
+      "label": "Kabupaten Magetan"
+    },
+    {
+      "val": 3521,
+      "label": "Kabupaten Ngawi"
+    },
+    {
+      "val": 3522,
+      "label": "Kabupaten Bojonegoro"
+    },
+    {
+      "val": 3523,
+      "label": "Kabupaten Tuban"
+    },
+    {
+      "val": 3524,
+      "label": "Kabupaten Lamongan"
+    },
+    {
+      "val": 3525,
+      "label": "Kabupaten Gresik"
+    },
+    {
+      "val": 3526,
+      "label": "Kabupaten Bangkalan"
+    },
+    {
+      "val": 3527,
+      "label": "Kabupaten Sampang"
+    },
+    {
+      "val": 3528,
+      "label": "Kabupaten Pamekasan"
+    },
+    {
+      "val": 3529,
+      "label": "Kabupaten Sumenep"
+    },
+    {
+      "val": 3571,
+      "label": "Kota Kediri"
+    },
+    {
+      "val": 3572,
+      "label": "Kota Blitar"
+    },
+    {
+      "val": 3573,
+      "label": "Kota Malang"
+    },
+    {
+      "val": 3574,
+      "label": "Kota Probolinggo"
+    },
+    {
+      "val": 3575,
+      "label": "Kota Pasuruan"
+    },
+    {
+      "val": 3576,
+      "label": "Kota Mojokerto"
+    },
+    {
+      "val": 3577,
+      "label": "Kota Madiun"
+    },
+    {
+      "val": 3578,
+      "label": "Kota Surabaya"
+    },
+    {
+      "val": 3579,
+      "label": "Kota Batu"
+    },
+    {
+      "val": 35000,
+      "label": "Jawa Timur"
+    }
+  ],
+  "tahun": [
+    {
+      "val": 122,
+      "label": "2022"
+    }
+  ],
+  "turtahun": [
+    {
+      "val": 0,
+      "label": "Tahun"
+    }
+  ],
+  "datacontent": {
+    "350005401220": 5.49,
+    "35015401220": 3.65,
+    "35025401220": 5.51,
+    "35035401220": 5.37,
+    "35045401220": 6.65,
+    "35055401220": 5.45,
+    "35065401220": 6.83,
+    "35075401220": 6.57,
+    "35085401220": 4.97,
+    "35095401220": 4.06,
+    "35105401220": 5.26,
+    "35115401220": 4.32,
+    "35125401220": 3.38,
+    "35135401220": 3.25,
+    "35145401220": 5.91,
+    "35155401220": 8.8,
+    "35165401220": 4.83,
+    "35175401220": 5.47,
+    "35185401220": 4.74,
+    "35195401220": 5.84,
+    "35205401220": 4.33,
+    "35215401220": 2.48,
+    "35225401220": 4.69,
+    "35235401220": 4.54,
+    "35245401220": 6.05,
+    "35255401220": 7.84,
+    "35265401220": 8.05,
+    "35275401220": 3.11,
+    "35285401220": 1.4,
+    "35295401220": 1.36,
+    "35715401220": 4.38,
+    "35725401220": 5.39,
+    "35735401220": 7.66,
+    "35745401220": 4.57,
+    "35755401220": 6.18,
+    "35765401220": 5.05,
+    "35775401220": 6.39,
+    "35785401220": 7.62,
+    "35795401220": 8.43
+  },
+  "related": []
+}

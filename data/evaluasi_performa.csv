@@ -1,0 +1,3 @@
+Metode,Akurasi (%),Precision (%),Recall (%),F1-Score (%),Inclusion Error (%),Exclusion Error (%)
+Metode Konvensional (Survei Manual),80.0,80.45,81.53,80.99,21.68,18.47
+SMART-MUSTAHIK (Model Usulan),99.95,99.9,100.0,99.95,0.1,0.0

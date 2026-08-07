@@ -1,0 +1,24 @@
+{
+  "status": "OK",
+  "data-availability": "available",
+  "last_update": null,
+  "subject": [],
+  "var": [],
+  "turvar": [
+    {
+      "val": "0",
+      "label": "Tidak ada"
+    }
+  ],
+  "labelvervar": [],
+  "vervar": [],
+  "tahun": [
+    {
+      "val": 124,
+      "label": "2024"
+    }
+  ],
+  "turtahun": [],
+  "datacontent": [],
+  "related": []
+}

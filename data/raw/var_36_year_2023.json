@@ -1,0 +1,241 @@
+{
+  "status": "OK",
+  "data-availability": "available",
+  "last_update": "2023-12-12 04:03:35",
+  "subject": [
+    {
+      "val": 563,
+      "label": "Kondisi Tempat Tinggal, Kemiskinan, dan Permasalahan Sosial Lintas Sektor"
+    }
+  ],
+  "var": [
+    {
+      "val": 36,
+      "label": "Indeks Pembangunan Manusia Menurut Kebupaten/Kota",
+      "unit": "",
+      "subj": "Indeks Pembangunan Manusia",
+      "def": "IPM menjelaskan bagaimana penduduk dapat mengakses hasil pembangunan dalam memperoleh pendapatan, kesehatan, pendidikan, dan sebagainya.",
+      "decimal": 2,
+      "note": "Angka IPM Pada tabel merupakan angka dengan perhitungan Metode Baru. Metode agregasi diubah dari rata-rata aritmatik menjadi rata-rata geometrik. Umur Harapan Hidup (UHH) dihitung menggunakan proyeksi penduduk hasil SP2010."
+    }
+  ],
+  "turvar": [
+    {
+      "val": "0",
+      "label": "Tidak ada"
+    }
+  ],
+  "labelvervar": "Kabupaten/Kota Se Jawa Timur",
+  "vervar": [
+    {
+      "val": 3501,
+      "label": "Kabupaten Pacitan"
+    },
+    {
+      "val": 3502,
+      "label": "Kabupaten Ponorogo"
+    },
+    {
+      "val": 3503,
+      "label": "Kabupaten Trenggalek"
+    },
+    {
+      "val": 3504,
+      "label": "Kabupaten Tulungagung"
+    },
+    {
+      "val": 3505,
+      "label": "Kabupaten Blitar"
+    },
+    {
+      "val": 3506,
+      "label": "Kabupaten Kediri"
+    },
+    {
+      "val": 3507,
+      "label": "Kabupaten Malang"
+    },
+    {
+      "val": 3508,
+      "label": "Kabupaten Lumajang"
+    },
+    {
+      "val": 3509,
+      "label": "Kabupaten Jember"
+    },
+    {
+      "val": 3510,
+      "label": "Kabupaten Banyuwangi"
+    },
+    {
+      "val": 3511,
+      "label": "Kabupaten Bondowoso"
+    },
+    {
+      "val": 3512,
+      "label": "Kabupaten Situbondo"
+    },
+    {
+      "val": 3513,
+      "label": "Kabupaten Probolinggo"
+    },
+    {
+      "val": 3514,
+      "label": "Kabupaten Pasuruan"
+    },
+    {
+      "val": 3515,
+      "label": "Kabupaten Sidoarjo"
+    },
+    {
+      "val": 3516,
+      "label": "Kabupaten Mojokerto"
+    },
+    {
+      "val": 3517,
+      "label": "Kabupaten Jombang"
+    },
+    {
+      "val": 3518,
+      "label": "Kabupaten Nganjuk"
+    },
+    {
+      "val": 3519,
+      "label": "Kabupaten Madiun"
+    },
+    {
+      "val": 3520,
+      "label": "Kabupaten Magetan"
+    },
+    {
+      "val": 3521,
+      "label": "Kabupaten Ngawi"
+    },
+    {
+      "val": 3522,
+      "label": "Kabupaten Bojonegoro"
+    },
+    {
+      "val": 3523,
+      "label": "Kabupaten Tuban"
+    },
+    {
+      "val": 3524,
+      "label": "Kabupaten Lamongan"
+    },
+    {
+      "val": 3525,
+      "label": "Kabupaten Gresik"
+    },
+    {
+      "val": 3526,
+      "label": "Kabupaten Bangkalan"
+    },
+    {
+      "val": 3527,
+      "label": "Kabupaten Sampang"
+    },
+    {
+      "val": 3528,
+      "label": "Kabupaten Pamekasan"
+    },
+    {
+      "val": 3529,
+      "label": "Kabupaten Sumenep"
+    },
+    {
+      "val": 3571,
+      "label": "Kota Kediri"
+    },
+    {
+      "val": 3572,
+      "label": "Kota Blitar"
+    },
+    {
+      "val": 3573,
+      "label": "Kota Malang"
+    },
+    {
+      "val": 3574,
+      "label": "Kota Probolinggo"
+    },
+    {
+      "val": 3575,
+      "label": "Kota Pasuruan"
+    },
+    {
+      "val": 3576,
+      "label": "Kota Mojokerto"
+    },
+    {
+      "val": 3577,
+      "label": "Kota Madiun"
+    },
+    {
+      "val": 3578,
+      "label": "Kota Surabaya"
+    },
+    {
+      "val": 3579,
+      "label": "Kota Batu"
+    },
+    {
+      "val": 35000,
+      "label": "Jawa Timur"
+    }
+  ],
+  "tahun": [
+    {
+      "val": 123,
+      "label": "2023"
+    }
+  ],
+  "turtahun": [
+    {
+      "val": 0,
+      "label": "Tahun"
+    }
+  ],
+  "datacontent": {
+    "350003601230": 73.38,
+    "35013601230": 70.19,
+    "35023601230": 72.5,
+    "35033601230": 71.73,
+    "35043601230": 74.61,
+    "35053601230": 72.49,
+    "35063601230": 73.96,
+    "35073601230": 72.16,
+    "35083601230": 67.87,
+    "35093601230": 68.64,
+    "35103601230": 72.61,
+    "35113601230": 67.99,
+    "35123601230": 69.16,
+    "35133601230": 67.79,
+    "35143601230": 70.29,
+    "35153601230": 81.55,
+    "35163601230": 75.53,
+    "35173601230": 74.6,
+    "35183601230": 73.71,
+    "35193601230": 72.97,
+    "35203601230": 75.41,
+    "35213601230": 72.47,
+    "35223601230": 70.85,
+    "35233601230": 70.34,
+    "35243601230": 74.53,
+    "35253601230": 77.98,
+    "35263601230": 65.75,
+    "35273601230": 64.13,
+    "35283601230": 67.96,
+    "35293601230": 68.61,
+    "35713601230": 80.44,
+    "35723601230": 80.63,
+    "35733601230": 83.39,
+    "35743601230": 75.43,
+    "35753601230": 77.17,
+    "35763601230": 80.07,
+    "35773601230": 82.71,
+    "35783601230": 83.45,
+    "35793601230": 78.18
+  },
+  "related": []
+}

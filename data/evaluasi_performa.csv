@@ -1,3 +1,3 @@
 Metode,Akurasi (%),Precision (%),Recall (%),F1-Score (%),Inclusion Error (%),Exclusion Error (%)
-Survei Manual Konvensional,83.33,92.86,81.25,86.67,12.5,18.75
-SMART-MUSTAHIK (Random Forest),100.0,100.0,100.0,100.0,0.0,0.0
+Baseline Noise,83.33,64.71,84.62,73.33,17.14,15.38
+SMART-MUSTAHIK,87.5,73.33,84.62,78.57,11.43,15.38
